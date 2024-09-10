@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+#ViewDash{
+    margin-top: 20px;
+    height: 100vh;
+}
+
+.inicio{
+    background-image: url('../galery/intro.jpg');
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+a{
+    width: 320px;
+    height: 60px;
+    background-color: rgba(0, 0, 0, 0.493);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: white;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.486);
+    font-size: 14pt;
+}
+
+a:hover{
+    background-color: rgba(0, 34, 26, 0.459);
+}
