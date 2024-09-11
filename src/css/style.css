@@ -35,3 +35,46 @@ a{
 a:hover{
     background-color: rgba(0, 34, 26, 0.459);
 }
+
+.dash{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.lista{
+    display: flex;
+    flex-direction: column;
+}
+
+button{
+    width: 320px;
+    height: 30px;
+    background-color: rgb(21, 141, 21);
+    border-color: rgb(1, 33, 5);
+    color: white;
+    text-align: left;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: rgb(251, 156, 41);
+    border-color: rgb(222, 107, 0);
+    color: black;
+}
+
+
+
+.MenuLateral{
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+}
+
+.menu_icon{
+    width: 40px;
+}
+
+.menu_icon:hover{
+    cursor: pointer;
+}

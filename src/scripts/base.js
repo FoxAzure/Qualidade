@@ -37,26 +37,14 @@ let Dashs = [
     
     },
     {
-        name: "IUP - Última Avaliação",
+        name: "IUP",
         url:"https://app.powerbi.com/view?r=eyJrIjoiZDg0MzRlNTUtNThkOS00OWJjLWExZjgtZjMwZmMzODA0OGE4IiwidCI6IjdkYjQwZjM0LTk1MzYtNGJiNC1iODVhLThhZDViMjEwODU0OCJ9",
         time: 20
     
     },
     {
-        name: "IUP -  Histórico",
-        url:"https://app.powerbi.com/view?r=eyJrIjoiZjdhNGIwN2EtMDIwMi00N2YwLWIyYWMtYjE1YWVmNzE3ODM4IiwidCI6IjdkYjQwZjM0LTk1MzYtNGJiNC1iODVhLThhZDViMjEwODU0OCJ9",
-        time: 20
-    
-    },
-    {
-        name: "Composto - Última Avaliação",
+        name: "Avaliação Composto",
         url:"https://app.powerbi.com/view?r=eyJrIjoiZTQ4Yzc4OGItZDFlMi00YzFlLWIxZjEtOTc2YjNmOWU5MTcxIiwidCI6IjdkYjQwZjM0LTk1MzYtNGJiNC1iODVhLThhZDViMjEwODU0OCJ9",
-        time: 20
-    
-    },
-    {
-        name: "Composto -  Histórico",
-        url:"https://app.powerbi.com/view?r=eyJrIjoiY2QxNDQ2MjctNDhkNy00N2I3LThlYzItYzIyYjlhMjU2YTMyIiwidCI6IjdkYjQwZjM0LTk1MzYtNGJiNC1iODVhLThhZDViMjEwODU0OCJ9",
         time: 20
     
     },
@@ -107,3 +95,23 @@ setInterval(function() {
     }
     
 }, tempo);
+
+
+function AlterarDash(id){
+    urlview.src = Dashs[id].url;
+}
+
+function MenuLista(){
+
+    let lista = document.querySelector(".lista")
+    let menu = document.querySelector(".menu_icon")
+
+    if(lista.style.display == "none"){
+        lista.style.display = "Flex"
+        menu.src = "../src/galery/menu_off.png"
+    }else{
+        lista.style.display = "none"
+        menu.src = "../src/galery/menu_on.png"
+    }
+    
+}

@@ -3,11 +3,37 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Dashboards</title>
     <link rel="stylesheet" href="src/css/style.css">
+    <link rel="shortcut icon" href="src/galery/favicon3.png" type="image/x-icon">
 </head>
-<body>
+<body class="dash">
+    
+    
+    <div class="MenuLateral">
+        <img onclick="MenuLista()" src="src/galery/menu_on.png" alt="" class="menu_icon">
+
+        <div class="lista" style="display: none;">
+        
+            <a href="index.html">Voltar ao Início</a>
+    
+            <button onclick="AlterarDash(0)">Perdas na Colheita Mecanizada</button>
+            <button onclick="AlterarDash(1)">Perdas na Colheita Manual</button>
+            <button onclick="AlterarDash(2)">Perdas na Colheita - Campos Avaliados</button>
+            <button onclick="AlterarDash(3)">Plantio Mecanizado</button>
+            <button onclick="AlterarDash(4)">Preparo de Solo</button>
+            <button onclick="AlterarDash(5)">Comparativo Sulco x Fita</button>
+            <button onclick="AlterarDash(6)">IUP - Indice de Uniformidade do Plantio</button>
+            <button onclick="AlterarDash(7)">Avaliação Composto</button>
+            <button onclick="AlterarDash(8)">Avaliação Vinhaça Localizada</button>
+            <button onclick="AlterarDash(9)">Infestação Final - Broca Mecanizada</button>
+            <button onclick="AlterarDash(10)">Semente - Última Avaliação</button>
+        </div>
+    </div>
+    
+
     <iframe src="" frameborder="0" width="100%" height="760px" id="ViewDash"></iframe>
+
 </body>
 <script src="src/scripts/base.js"></script>
 </html>
