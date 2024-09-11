@@ -104,14 +104,19 @@ function AlterarDash(id){
 function MenuLista(){
 
     let lista = document.querySelector(".lista")
-    let menu = document.querySelector(".menu_icon")
+    let menuIcon = document.querySelector(".menu_icon")
+    let menu = document.querySelector(".MenuLateral")
 
     if(lista.style.display == "none"){
         lista.style.display = "Flex"
-        menu.src = "../src/galery/menu_off.png"
+        menuIcon.src = "../src/galery/menu_off.png"
+        menu.style.whidt = "320px"
+        menu.style.position = "relative";
     }else{
         lista.style.display = "none"
-        menu.src = "../src/galery/menu_on.png"
+        menuIcon.src = "../src/galery/menu_on.png"
+        menu.style.whidt = "40px"
+        menu.style.position = "relative";
     }
     
 }

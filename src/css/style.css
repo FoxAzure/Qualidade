@@ -49,11 +49,12 @@ a:hover{
 
 button{
     width: 320px;
-    height: 30px;
+    height: 40px;
     background-color: rgb(21, 141, 21);
     border-color: rgb(1, 33, 5);
     color: white;
     text-align: left;
+    text-indent: 10px;
 }
 
 button:hover{
@@ -66,8 +67,8 @@ button:hover{
 
 
 .MenuLateral{
-    position: absolute;
-    width: 100vw;
+    position: relative;
+    width: 40px;
     height: 100vh;
 }
 
