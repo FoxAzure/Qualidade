@@ -65,6 +65,12 @@ let Dashs = [
         url:"https://app.powerbi.com/view?r=eyJrIjoiYTU0ZTU3ZjAtZjFiZC00NTk1LWFjZWYtOGQwZDgxMTkxNzNmIiwidCI6IjdkYjQwZjM0LTk1MzYtNGJiNC1iODVhLThhZDViMjEwODU0OCJ9",
         time: 20
     
+    },
+    {
+        name: "Semente - Histórico",
+        url:"https://app.powerbi.com/view?r=eyJrIjoiNzc5Mzg5MGQtZGE2Mi00MDM4LTgwYjUtM2NkMTRhNGIwN2Q5IiwidCI6IjdkYjQwZjM0LTk1MzYtNGJiNC1iODVhLThhZDViMjEwODU0OCJ9",
+        time: 20
+    
     }
 
 ]
