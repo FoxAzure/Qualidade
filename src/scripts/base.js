@@ -26,7 +26,7 @@ let Dashs = [
     },
     {
         name: "Preparo de Solo",
-        url:"https://app.powerbi.com/view?r=eyJrIjoiMzZkNDg2NWItN2YzOC00NGEzLTk2ZmEtYTRlZjE2ODYzMzcwIiwidCI6IjdkYjQwZjM0LTk1MzYtNGJiNC1iODVhLThhZDViMjEwODU0OCJ9",
+        url:"https://app.powerbi.com/view?r=eyJrIjoiYmUyMmM2YjQtNzdjYi00ZGNjLTg3YmYtYTA4OGNhOTEwOTI1IiwidCI6IjdkYjQwZjM0LTk1MzYtNGJiNC1iODVhLThhZDViMjEwODU0OCJ9",
         time: 20
     
     },
