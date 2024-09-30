@@ -19,6 +19,12 @@ let Dashs = [
     
     },
     {
+        name: "Relatório das Colhedoras",
+        url:"https://app.powerbi.com/view?r=eyJrIjoiYWQ3OGQyZjQtMjFkNy00MWRmLTk1ZTUtMmZlYzI2ZWY3YjEwIiwidCI6IjdkYjQwZjM0LTk1MzYtNGJiNC1iODVhLThhZDViMjEwODU0OCJ9",
+        time: 20
+    
+    },
+    {
         name: "Plantio Mecanizado",
         url:"https://app.powerbi.com/view?r=eyJrIjoiOTIxM2M0YzYtZmRlMi00OWEwLTk0ODktODE2NDg1ZmE4NDFjIiwidCI6IjdkYjQwZjM0LTk1MzYtNGJiNC1iODVhLThhZDViMjEwODU0OCJ9",
         time: 20
@@ -71,10 +77,13 @@ let Dashs = [
         url:"https://app.powerbi.com/view?r=eyJrIjoiNzc5Mzg5MGQtZGE2Mi00MDM4LTgwYjUtM2NkMTRhNGIwN2Q5IiwidCI6IjdkYjQwZjM0LTk1MzYtNGJiNC1iODVhLThhZDViMjEwODU0OCJ9",
         time: 20
     
-    }
+    },
+    
+
 
 ]
-//
+//    https://app.powerbi.com/view?r=eyJrIjoiYWQ3OGQyZjQtMjFkNy00MWRmLTk1ZTUtMmZlYzI2ZWY3YjEwIiwidCI6IjdkYjQwZjM0LTk1MzYtNGJiNC1iODVhLThhZDViMjEwODU0OCJ9
+
 
 
 
