@@ -1,5 +1,5 @@
 
-let Dashs = [
+let DashsOld = [
     {
         name: "Perdas na Colheita Mecanizada",
         url:"https://app.powerbi.com/view?r=eyJrIjoiYTUxYzM3ZmEtMjIxYS00YmIzLThhNzQtNGM3Nzk2OGRkYzBhIiwidCI6IjdkYjQwZjM0LTk1MzYtNGJiNC1iODVhLThhZDViMjEwODU0OCJ9",
@@ -75,6 +75,18 @@ let Dashs = [
     {
         name: "Semente - Histórico",
         url:"https://app.powerbi.com/view?r=eyJrIjoiNzc5Mzg5MGQtZGE2Mi00MDM4LTgwYjUtM2NkMTRhNGIwN2Q5IiwidCI6IjdkYjQwZjM0LTk1MzYtNGJiNC1iODVhLThhZDViMjEwODU0OCJ9",
+        time: 20
+    
+    },
+    
+
+
+]
+
+let Dashs = [
+    {
+        name: "Semente Mecanizada - Última Avaliação",
+        url:"https://app.powerbi.com/view?r=eyJrIjoiNmZkOTgyOTUtZGM3OC00MjBjLWFhYjgtMjkyOWQ1MDkxMTQ1IiwidCI6IjdkYjQwZjM0LTk1MzYtNGJiNC1iODVhLThhZDViMjEwODU0OCJ9",
         time: 20
     
     },
