@@ -90,11 +90,15 @@ let Dashs = [
         time: 20
     
     },
+    {
+        name: "Semente Mecanizada - Histórico",
+        url:"https://app.powerbi.com/view?r=eyJrIjoiYzRjODQ1MzItN2Q0Zi00N2ZmLTllODMtMTA2MjhhM2MzODJjIiwidCI6IjdkYjQwZjM0LTk1MzYtNGJiNC1iODVhLThhZDViMjEwODU0OCJ9",
+        time: 20
     
+    },
 
 
 ]
-//    https://app.powerbi.com/view?r=eyJrIjoiYWQ3OGQyZjQtMjFkNy00MWRmLTk1ZTUtMmZlYzI2ZWY3YjEwIiwidCI6IjdkYjQwZjM0LTk1MzYtNGJiNC1iODVhLThhZDViMjEwODU0OCJ9
 
 
 
