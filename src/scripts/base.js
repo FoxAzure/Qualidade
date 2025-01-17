@@ -96,6 +96,12 @@ let Dashs = [
         time: 20
     
     },
+    {
+        name: "Plantio Mecanizado - Útlima Avaliação",
+        url:"https://app.powerbi.com/view?r=eyJrIjoiZmVhYmI0MTQtNjViYi00YTdhLTljNmUtMzllOTc0YzE3MTlmIiwidCI6IjdkYjQwZjM0LTk1MzYtNGJiNC1iODVhLThhZDViMjEwODU0OCJ9",
+        time: 20
+    
+    },
 
 
 ]
