@@ -108,6 +108,12 @@ let Dashs = [
         time: 20
     
     },
+    {
+        name: "Preparo de Solo - Útlima Avaliação",
+        url:"https://app.powerbi.com/view?r=eyJrIjoiYThiZmFlZTYtOGE5My00ZmExLThjYjAtY2QzMjhhNWFiYjRiIiwidCI6IjdkYjQwZjM0LTk1MzYtNGJiNC1iODVhLThhZDViMjEwODU0OCJ9",
+        time: 20
+    
+    },
 
 
 ]
