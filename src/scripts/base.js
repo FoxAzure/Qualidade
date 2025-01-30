@@ -114,6 +114,12 @@ let Dashs = [
         time: 20
     
     },
+    {
+        name: "IUP Layers HEMAV",
+        url:"https://app.powerbi.com/view?r=eyJrIjoiYThiZmFlZTYtOGE5My00ZmExLThjYjAtY2QzMjhhNWFiYjRiIiwidCI6IjdkYjQwZjM0LTk1MzYtNGJiNC1iODVhLThhZDViMjEwODU0OCJ9",
+        time: 20
+    
+    },
 
 
 ]
