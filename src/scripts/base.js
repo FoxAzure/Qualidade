@@ -103,6 +103,12 @@ let Dashs = [
     
     },
     {
+        name: "Plantio Mecanizado - Útlima Avaliação",
+        url:"https://app.powerbi.com/view?r=eyJrIjoiZmRlNjk2ZGYtNjNjMC00ZTlhLWFmOWYtZTI4NjU1ZGIwZjc4IiwidCI6IjdkYjQwZjM0LTk1MzYtNGJiNC1iODVhLThhZDViMjEwODU0OCJ9",
+        time: 20
+    
+    },
+    {
         name: "Drone - Útlima Avaliação",
         url:"https://app.powerbi.com/view?r=eyJrIjoiZDhjOTU0ZjctNGEyOS00OGRlLThiOWUtNWYyM2Y2M2ZiMGUxIiwidCI6IjdkYjQwZjM0LTk1MzYtNGJiNC1iODVhLThhZDViMjEwODU0OCJ9",
         time: 20
