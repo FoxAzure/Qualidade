@@ -162,6 +162,13 @@ function AlterarDash(id){
     urlview.src = Dashs[id].url;
 }
 
+
+function ApresentacaoGeral(){
+    window.location.href = 'dash.html'
+}
+
+
+
 function MenuLista(){
 
     let lista = document.querySelector(".lista")

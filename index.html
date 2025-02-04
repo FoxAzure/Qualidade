@@ -7,7 +7,42 @@
     <link rel="stylesheet" href="src/css/style.css">
     <link rel="shortcut icon" href="src/galery/favicon3.png" type="image/x-icon">
 </head>
-<body class="inicio">
-    <a href="dash.html">INICIAR</a>
+<body class="paginaInicial">
+    <Header class="headerPage">
+        <div class="logo">
+            <img src="src/galery/logofull1-3.png" alt="Logo_AgroTarget" class="logo_img">
+        </div>
+    </Header>
+
+
+    <nav class="navegação">
+        <button class="bt_nav">GERAL</button>
+    </nav>
+
+    <div class="grade">
+
+            <div class="ListaApresentações">
+                <button class="bt_Ap" onclick="ApresentacaoGeral()">Apresentação Geral</button>
+                <button class="bt_Ap">Apresentação Entressafra</button>
+                <button class="bt_Ap">Lista de Relatórios</button>
+
+            <div class="boxinfo">
+                <h2 class="titlebox blue">Nota</h2>
+                <p>Números gerados diáriamente pela equipe de Qualidade Agrícola da Agrovale. Contabilizando os dados coletados e cálculos de cada atividade em campo.</p>
+            </div>
+            <div class="boxinfo">
+                <h2 class="titlebox red">Aviso Importante</h2>
+                <p>Os dados apresentados são atualizados diariamente às 17h.</p>
+            </div>
+        </div>
+        <iframe src="https://app.powerbi.com/view?r=eyJrIjoiOGE3OWVmZGItMTJiZS00NzhmLWEwMzktNGQ3NzYwMTA2Y2ZjIiwidCI6IjdkYjQwZjM0LTk1MzYtNGJiNC1iODVhLThhZDViMjEwODU0OCJ9" frameborder="0" class="iframe_dash">
+            
+        </iframe>
+    </div>
+
+
+    
 </body>
+<script src="src/scripts/base.js"></script>
 </html>
+
