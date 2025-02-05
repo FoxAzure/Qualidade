@@ -121,6 +121,12 @@ let Dashs = [
     
     },
     {
+        name: "Avaliação Irrigação - Pressões dos Lotes",
+        url:"https://app.powerbi.com/view?r=eyJrIjoiNzRkZDEwN2UtMGZlYS00OWFiLWFkMjQtMmQ4YWVjZjg1MDBlIiwidCI6IjdkYjQwZjM0LTk1MzYtNGJiNC1iODVhLThhZDViMjEwODU0OCJ9",
+        time: 20
+    
+    },
+    {
         name: "Preparo de Solo - Útlima Avaliação",
         url:"https://app.powerbi.com/view?r=eyJrIjoiYThiZmFlZTYtOGE5My00ZmExLThjYjAtY2QzMjhhNWFiYjRiIiwidCI6IjdkYjQwZjM0LTk1MzYtNGJiNC1iODVhLThhZDViMjEwODU0OCJ9",
         time: 20
