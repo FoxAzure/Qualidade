@@ -115,6 +115,12 @@ let Dashs = [
     
     },
     {
+        name: "Avaliação Irrigação - Casa de Bomba",
+        url:"https://app.powerbi.com/view?r=eyJrIjoiYjNjNzJiNDQtNTM4ZS00ODE0LTg2MWQtZjdhMTMxNmQ5YzRiIiwidCI6IjdkYjQwZjM0LTk1MzYtNGJiNC1iODVhLThhZDViMjEwODU0OCJ9",
+        time: 20
+    
+    },
+    {
         name: "Preparo de Solo - Útlima Avaliação",
         url:"https://app.powerbi.com/view?r=eyJrIjoiYThiZmFlZTYtOGE5My00ZmExLThjYjAtY2QzMjhhNWFiYjRiIiwidCI6IjdkYjQwZjM0LTk1MzYtNGJiNC1iODVhLThhZDViMjEwODU0OCJ9",
         time: 20
