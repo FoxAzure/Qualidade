@@ -121,6 +121,12 @@ let Dashs = [
     
     },
     {
+        name: "Avaliação Irrigação - Campo Gotejo",
+        url:"https://app.powerbi.com/view?r=eyJrIjoiZjk0YTNjNzQtNjNjOC00ZTgzLTg0YWMtZDAwZTE3ZTk2YmFmIiwidCI6IjdkYjQwZjM0LTk1MzYtNGJiNC1iODVhLThhZDViMjEwODU0OCJ9",
+        time: 20
+    
+    },
+    {
         name: "Avaliação Irrigação - Pressões dos Lotes",
         url:"https://app.powerbi.com/view?r=eyJrIjoiNzRkZDEwN2UtMGZlYS00OWFiLWFkMjQtMmQ4YWVjZjg1MDBlIiwidCI6IjdkYjQwZjM0LTk1MzYtNGJiNC1iODVhLThhZDViMjEwODU0OCJ9",
         time: 20
@@ -168,6 +174,12 @@ setInterval(function() {
     }
     
 }, tempo);
+
+
+
+
+
+
 
 
 function AlterarDash(id){
