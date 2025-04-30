@@ -150,9 +150,25 @@ let Dashs = [
         time: 20
     
     },
+    {
+        name: "Perdas na Colheita Mecanizada",
+        url:"https://app.powerbi.com/view?r=eyJrIjoiYjkxYWZjZTktOGI2Yy00OGQxLWE1MDEtZmFkZGUzZDE1MjMyIiwidCI6IjdkYjQwZjM0LTk1MzYtNGJiNC1iODVhLThhZDViMjEwODU0OCJ9",
+        time: 20
+    
+    },
 
     
 ]
+
+
+//{icon: "", id:300, tag: 2,tipo: 1, relatorio: "Perdas na Colheita Mecanizada", ativo: true, url: "https://app.powerbi.com/view?r=eyJrIjoiZDhkM2E1MGQtNmQxNC00NmY2LWFkMjYtOGZhN2VkNzQzNThkIiwidCI6IjdkYjQwZjM0LTk1MzYtNGJiNC1iODVhLThhZDViMjEwODU0OCJ9", url_full: ""},
+//{icon: "", id:301, tag: 2,tipo: 1, relatorio: "Histórico Colheita Mecanizada", ativo: true, url: "https://app.powerbi.com/view?r=eyJrIjoiMjJiY2NjMWUtNDBhNy00NWY4LTg0OWQtMzg3YjMyMTI4M2I4IiwidCI6IjdkYjQwZjM0LTk1MzYtNGJiNC1iODVhLThhZDViMjEwODU0OCJ9", url_full: ""},
+//{icon: "", id:302, tag: 2,tipo: 1, relatorio: "Perdas na Colheita Manual", ativo: true, url: "https://app.powerbi.com/view?r=eyJrIjoiNTAzYzZhNzQtZWVmZC00ZWE4LTgzMTctZjU4OTAxMTAyZmM5IiwidCI6IjdkYjQwZjM0LTk1MzYtNGJiNC1iODVhLThhZDViMjEwODU0OCJ9", url_full: ""},
+//{icon: "", id:303, tag: 2,tipo: 1, relatorio: "Histórico Colheita Manual", ativo: true, url: "https://app.powerbi.com/view?r=eyJrIjoiYjc2ZmFiZWMtYjQ5YS00ZTZlLTg0NWUtYTBkY2MxYjY2MThlIiwidCI6IjdkYjQwZjM0LTk1MzYtNGJiNC1iODVhLThhZDViMjEwODU0OCJ9", url_full: ""},
+//{icon: "", id:304, tag: 2,tipo: 1, relatorio: "Relatório Estimado x Real", ativo: false, url: ""},
+//{icon: "", id:305, tag: 2,tipo: 1, relatorio: "Relatório das Colhedoras", ativo: true, url: "https://app.powerbi.com/view?r=eyJrIjoiZDdhYTkyZjEtYTMwNy00YjhiLTkzZmUtM2JjYmZjNmExZTEwIiwidCI6IjdkYjQwZjM0LTk1MzYtNGJiNC1iODVhLThhZDViMjEwODU0OCJ9", url_full: ""},
+//{icon: "", id:306, tag: 2,tipo: 1, relatorio: "Relatório por Frente", ativo: true, url: "https://app.powerbi.com/view?r=eyJrIjoiMGI1MmFiMjItMjgxMC00YzBhLTllOWMtMTU3ZmM4MjJhMTkxIiwidCI6IjdkYjQwZjM0LTk1MzYtNGJiNC1iODVhLThhZDViMjEwODU0OCJ9"},
+//{icon: "", id:307, tag: 2,tipo: 1, relatorio: "Relatório por Variedade", ativo: true, url: "https://app.powerbi.com/view?r=eyJrIjoiNTQ1ZDRjYWMtNDZlMy00YWFmLWE1YzEtNDNmN2Y5MDlkYWE1IiwidCI6IjdkYjQwZjM0LTk1MzYtNGJiNC1iODVhLThhZDViMjEwODU0OCJ9"},
 
 
 
