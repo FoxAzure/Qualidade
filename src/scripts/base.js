@@ -83,7 +83,14 @@ let DashsOld = [
 
 ]
 
+
 let Dashs = [
+    {
+        name: "Perdas na Colheita - Histórico",
+        url:"https://app.powerbi.com/view?r=eyJrIjoiYzVjMjc3NDQtZjkxNi00Njk3LTgyNTktOTNiZDAxZTkxMDUyIiwidCI6IjdkYjQwZjM0LTk1MzYtNGJiNC1iODVhLThhZDViMjEwODU0OCJ9",
+        time: 20
+    
+    },
     {
         name: "Semente Mecanizada - Última Avaliação",
         url:"https://app.powerbi.com/view?r=eyJrIjoiNmZkOTgyOTUtZGM3OC00MjBjLWFhYjgtMjkyOWQ1MDkxMTQ1IiwidCI6IjdkYjQwZjM0LTk1MzYtNGJiNC1iODVhLThhZDViMjEwODU0OCJ9",
